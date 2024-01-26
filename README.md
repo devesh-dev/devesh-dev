@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 
-Web dev passionate about making open-source accessible & building impactful tech.  MERN stack enthusiast (MongoDB, Express.js, React.js, Node.js) & self-taught developer from India. 🇮🇳 Eager to learn, collaborate, & empower others. <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js<br>⚡ Fun fact
+I'm Web dev passionate about making open-source accessible & building impactful tech.  MERN stack enthusiast (MongoDB, Express.js, React.js, Node.js) & self-taught developer from India. Eager to learn, collaborate, & empower others. <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
